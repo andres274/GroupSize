@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"GroupSize"},{"p":"<Unnamed>","l":"GroupSize.AccountType"}]
